@@ -1,6 +1,6 @@
 # POO-Coursera-Week2
 Projeto semana 2
--- INTRODUÇÃO
+-- INSTRUÇÕES
 
 
 Crie uma classe Pizza que possua o método adicionaIngrediente() que recebe uma String com o ingrediente a ser adicionado.
